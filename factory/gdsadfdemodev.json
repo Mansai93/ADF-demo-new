@@ -1,0 +1,9 @@
+{
+	"name": "gdsadfdemodev",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "14c01c18-dbb9-46ea-82b4-83adccfc16d2",
+		"tenantId": "3cd3e2b1-a6db-4667-be4b-3ba400474a25"
+	}
+}
